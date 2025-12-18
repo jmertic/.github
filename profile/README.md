@@ -18,3 +18,5 @@ Check out https://github.com/wizardofzos/cbt2git to see the current state of the
 Feel free to `fork` it, create your updates, and generate pull requests with your enhancements.
 
 To help feel free to reach out to Henri Kuiper at henrikuiper@zdevops.com.
+
+Details on the licensing of the files on the CBT Tape can be found [here](../NOTICE.md).
