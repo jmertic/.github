@@ -19,4 +19,4 @@ Feel free to `fork` it, create your updates, and generate pull requests with you
 
 To help feel free to reach out to Henri Kuiper at henrikuiper@zdevops.com.
 
-Details on the licensing of the files on the CBT Tape can be found [here](../NOTICE.md).
+All files within the CBTTape GitHub Organization (https://github.com/CBTTape) are licensed under the MIT License (available at https://opensource.org/licenses/MIT), unless otherwise specified in the file itself. Please refer to the licensing information in each file for more information.
