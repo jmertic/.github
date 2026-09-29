@@ -19,4 +19,12 @@ Feel free to `fork` it, create your updates, and generate pull requests with you
 
 To help feel free to reach out to Henri Kuiper at henrikuiper@zdevops.com.
 
+## Licensing
+
 All files within the CBTTape GitHub Organization (https://github.com/CBTTape) are licensed under the MIT License (available at https://opensource.org/licenses/MIT), unless otherwise specified in the file itself. Please refer to the licensing information in each file for more information.
+
+> [!NOTE]
+> The following statement from IBM applies to contributions made to CBT Tape prior to September 2026. Future contributions from IBM must adhere to modern open source license (such at the Apache 2.0 or MIT) and be free of
+> such statements.
+>
+> _IBM supports making code provided by IBM that includes IBM copyright notices or other IBM- originated notices or labeling—including, for example, statements such as “LICENSED MATERIALS – PROPERTY OF IBM” or “RESTRICTED MATERIALS OF IBM”—available to the community under the Apache 2.0 open source license._
